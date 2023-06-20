@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZIYOU - Gaming Gear</title>
+    <title> ATN-STORE</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -53,15 +53,15 @@
 					<div class="col-sm-6">
 						<div class="contactinfo" >
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +84 0337 197 520</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> atnstore@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> +0949800908</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> Atn@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="https://www.facebook.com/hill.luck.96"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.facebook.com/vuhai.le.773"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>								
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
@@ -77,8 +77,8 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:black;color:white ">ATN Store
-                            <img src="images/atnlogo.png" width="70" height="70"></a>
+                            <a href="index.php" style="background-color:black;color:white ">ATN-Store
+                            <img src="img/h22.jpg" width="70" height="70"></a>
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -129,9 +129,9 @@
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="index.php" class="active">Home</a></li>
 								<li class="dropdown"><a href="#" style="color:black">Introduction<i class="fa fa-angle-down"></i></a>
-                                    <ul role="menu" class="sub-menu" style="background-color:#FF0033">
+                                    <!-- <ul role="menu" class="sub-menu" style="background-color:#FF0033">
                                         <li><a href="?page=intro" style="color:black">About Us</a></li>
-                                    </ul>
+                                    </ul> -->
                                     
                                 </li> 
 								<li class="dropdown"><a href="#" style="color:black">Management<i class="fa fa-angle-down"></i></a>
@@ -224,7 +224,7 @@
                         <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
                              specializing in retailing toy products for children over 13 years old.</p>
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/hill.luck.96" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/vuhai.le.773" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>

@@ -7,7 +7,7 @@ include_once("connection.php");
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="images/backgroud1.png" width="100" height="50" alt="Slide">
+						<img src="img/h20.jpg" width="100" height="50" alt="Slide">
 						<div class="caption-group">
 							<h2 class="">
 							</h2>
@@ -15,14 +15,14 @@ include_once("connection.php");
 							
 						</div>
 					</li>
-					<li><img src="images/backgroud2.png" alt="Slide">
+					<!-- <li><img src="images/backgroud2.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="">
 							</h2>
 							<h4 class=""></h4>
 							
 						</div>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 			<!-- ./Slider -->
@@ -30,11 +30,11 @@ include_once("connection.php");
     
    
     
-    <div class="promo-area">
+    <!-- <div class="promo-area">
         <div class="zigzag-bottom"></div>
         <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
+            <div class="row"> -->
+                <!-- <div class="col-md-3 col-sm-6">
                     <div class="single-promo promo1">
                         <i class="fa fa-refresh"></i>
                         <p>Exchange fast</p>
@@ -51,16 +51,16 @@ include_once("connection.php");
                         <i class="fa fa-lock"></i>
                         <p>Payment security</p>
                     </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
+                </div> -->
+                <!-- <div class="col-md-3 col-sm-6">
                     <div class="single-promo promo4">
                         <i class="fa fa-gift"></i>
                         <p>New Product</p>
                     </div>
-                </div>
-            </div>
+                </div> -->
+            <!-- </div>
         </div>
-    </div> 
+    </div>  -->
     
     
     <div class="maincontent-area">
@@ -112,7 +112,7 @@ include_once("connection.php");
         </div>
     </div> <!-- End main content area -->
     
-    <div class="brands-area">
+    <!-- <div class="brands-area">
         <div class="zigzag-bottom"></div>
         <div class="container">
             <div class="row">
@@ -129,4 +129,4 @@ include_once("connection.php");
                 </div>
             </div>
         </div>
-    </div> 
+    </div>  -->
