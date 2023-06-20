@@ -5,13 +5,13 @@ include_once("connection.php");
      <div class="slider-area">
         	<!-- Slider -->
 			<div class="block-slider block-slider4">
-				<ul class="" id="bxslider-home4">
-					<li>
+				<!-- <ul class="" id="bxslider-home4"> -->
+					<!-- <li> -->
 						<img src="img/h20.jpg" width="100" height="50" alt="Slide">
-						<div class="caption-group">
-							<h2 class="">
-							</h2>
-							<h4 class=""></h4>
+						<!-- <div class="caption-group"> -->
+							<!-- <h2 class="">
+							</h2> -->
+							<!-- <h4 class=""></h4> -->
 							
 						</div>
 					</li>
@@ -97,7 +97,7 @@ include_once("connection.php");
                                 <h2><a href="?page=quanly_chitietsanpham&ma=<?php echo  $row['Product_ID']?>"><?php echo  $row['Product_Name']?></a></h2>
                                 
                                 <div class="product-carousel-price">
-                                    <ins><?php echo  $row['Price']?></ins> <del><?php echo  $row['oldPrice']?></del>
+                                    <ins><?php echo  $row['Price']?></ins> </del>
                                 </div> 
                             </div>
                 
@@ -112,21 +112,4 @@ include_once("connection.php");
         </div>
     </div> <!-- End main content area -->
     
-    <!-- <div class="brands-area">
-        <div class="zigzag-bottom"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="brand-wrapper">
-                        <div class="brand-list">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
-                                 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>  -->
+ 

@@ -47,7 +47,7 @@
   ?>
 
    <header id="header"><!--header-->
-		<div class="header_top" style="background-color:#FF0033">
+		<div class="header_top" style="background-color:purple">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
@@ -84,8 +84,8 @@
 					<div class="col-sm-6">
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav" >
-                                <li><a href="?page=cart" style="background-color:black;color:#FFF">
-                                <i class="fa fa-shopping-cart"></i> Cart</a></li> 
+                                <!-- <li><a href="?page=cart" style="background-color:black;color:#FFF">
+                                <i class="fa fa-shopping-cart"></i> Cart</a></li>  -->
                                 <?php 
                                     if(isset($_SESSION['us']) && $_SESSION['us'] !=""){
                                         
@@ -113,7 +113,7 @@
 			</div>
 		</div><!--/header-middle-->
 	
-		<div class="header-bottom" style="background-color:#FF0033"><!--header-bottom-->
+		<div class="header-bottom" style="background-color:purple"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-9">
@@ -128,7 +128,7 @@
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="index.php" class="active">Home</a></li>
-								<li class="dropdown"><a href="#" style="color:black">Introduction<i class="fa fa-angle-down"></i></a>
+								<!-- <li class="dropdown"><a href="#" style="color:black">Introduction<i class="fa fa-angle-down"></i></a> -->
                                     <!-- <ul role="menu" class="sub-menu" style="background-color:#FF0033">
                                         <li><a href="?page=intro" style="color:black">About Us</a></li>
                                     </ul> -->
@@ -141,7 +141,7 @@
                                         <li><a href="?page=supplier_management" style="color:black">Supplier</a></li>
                                     </ul>
                                 </li> 
-							<li><a href="?page=cart" style="color:black">Cart</a></li>
+							<!-- <li><a href="?page=cart" style="color:black">Cart</a></li> -->
                                 <!-- <li><a href="#">Feedback</a></li>
 								<li><a href="#">Contact</a></li> -->
 							</ul>
@@ -220,9 +220,8 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2>A<span>TN</span></h2>
-                        <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
-                             specializing in retailing toy products for children over 13 years old.</p>
+                        <h2>ATN <span> Store </span></h2>
+                        <p>Toys Store for toys for all ageseverything from dolls and action figures to board games and crafts Free shipping on orders 35 free returns.</p>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/vuhai.le.773" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -242,7 +241,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-3 col-sm-6">
+                <!-- <div class="col-md-3 col-sm-6">
                     <div class="footer-menu">
                         <h2 class="footer-wid-title">Classify</h2>
                         <ul>
@@ -251,7 +250,7 @@
                             <li><a href="#">Puzzles</a></li> 
                         </ul>                        
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div> <!-- End footer top area -->
