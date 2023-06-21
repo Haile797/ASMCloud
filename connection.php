@@ -2,8 +2,8 @@
     // $conn = mysqli_connect('localhost','root','','asmcloud') 
     // or die("Cannot connect database".mysqli_connect_error());
 
-    $conn = mysqli_connect("co28d739i4m2sb7j.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","sp938v5zbjyowac9","i20714xloi0o3un7","q64olmavutpw3ztf") 
+    $conn = mysqli_connect("z5zm8hebixwywy9d.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","kuuzwvaiia8ipsv4","o6g2cq79uw4i89q1","o8bgaanbp80cvo0c") 
     or die("Cannot connect database".mysqli_connect_error());
 
-    mysqli_query($conn, 'SET NAMES "utf8"')
+    // mysqli_query($conn, 'SET NAMES "utf8"')
 ?>
